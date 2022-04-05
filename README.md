@@ -2,6 +2,6 @@
 
 ## Purpose: Learn Game Programming
 
-### Because source code files are too large or unknown reasons (maybe some free materials cannot be uploaded?), I had trouble to push the source code here.
+### Because source code files are too large (>100M), it is impossible to push the source code here.
 
 ![Runtime image](P1.jpg)
